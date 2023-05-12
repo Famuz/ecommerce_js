@@ -20,6 +20,8 @@ app.use(productsRouter);
 app.use(adminProductsRouter);
 app.use(cartsRouter);
 
-app.listen('https://famuz.github.io/ecommerce_js/', () => {
+const port = 8443 || 3000;
+
+app.listen(port, () => {
   console.log('Listening');
 });
