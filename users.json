@@ -1,0 +1,17 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "2a6a3ae0779370b7c9d9247ad45ecc0eae4251e48566d584845bf652b8364ade3f24e39ea143221fe768b4206db91837d80d65105b7ab288850c39df350eebbe.8ede8ae228c34638",
+    "id": "9f992f35"
+  },
+  {
+    "email": "juanjo.rs14@hotmail.com",
+    "password": "afa2a86c66ba1a430a6a9be5b717365877e864a014091da690324b630f46824c9d4b9160b0b09eee6661d306914862a6fb6690429525de0ede6d360a13fb3d81.54afb09e20448910",
+    "id": "12b0b6a2"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "f31d4fda8539c05167cd83c5554e300ca1f750b6017827d5d08a5dea198cf849cf27130e2a68be400ad9b47fa8dc60cde2bd002ceac6c933b6fd38fd92fa5f14.56602fafc4c0beaf",
+    "id": "397b2f4d"
+  }
+]
