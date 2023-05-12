@@ -20,7 +20,7 @@ app.use(productsRouter);
 app.use(adminProductsRouter);
 app.use(cartsRouter);
 
-const port = 8443 || 3000;
+const port = '' || 3000;
 
 app.listen(port, () => {
   console.log('Listening');
